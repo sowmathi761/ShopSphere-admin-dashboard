@@ -221,7 +221,6 @@ npm run dev
 ## 15. Author Information
 
 Name: Sowmathi
-Role: Developer
 
 ---
 
